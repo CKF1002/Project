@@ -1,0 +1,9 @@
+over-commenting
+variable list
+
+
+standardize data first!! (format/type)
+don't write CAPS
+completely break down (default values)
+setup sandbox
+add diff scenarios as arguments (FX=False)
