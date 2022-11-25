@@ -7,3 +7,19 @@ don't write CAPS
 completely break down (default values)
 setup sandbox
 add diff scenarios as arguments (FX=False)
+
+https://www.codewars.com/
+
+The Hitchhiker’s Guide to Python!
+
+
+hands-on machine learning with scikit-learn & tensorflow
+
+how to think like a computer scientist 
+
+3blue1brown
+
+10 minutes to pandas
+
+
+CS231N 
