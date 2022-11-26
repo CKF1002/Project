@@ -23,3 +23,5 @@ how to think like a computer scientist
 
 
 CS231N 
+
+for loop think x[1] : steps to do it once, then try to loop it
