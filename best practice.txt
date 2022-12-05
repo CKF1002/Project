@@ -30,3 +30,4 @@ for loop think x[1] : steps to do it once, then try to loop it
 
 
 @staticmethod: no need self (instance), use the method like a func.
+
